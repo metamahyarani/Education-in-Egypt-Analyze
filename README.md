@@ -1,0 +1,1 @@
+This project about analyze data from Kaggle's. Analyze the data based on Student's year, Student's age, Father Degree, Mother Degree, and Education Type. This analyze using machine learning method. And don't forget to install the libraries to help exploring the data
